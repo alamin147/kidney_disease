@@ -2,4 +2,4 @@
 
 
 # Colab link
-    https://colab.research.google.com/drive/1zSWEG5yZfAKy6iscdUfwjytf1Idbr3CE?usp=sharing
+    https://colab.research.google.com/drive/1n6WzdvxVv9jm89oHaibONSiEzjURTHF6?usp=sharing
